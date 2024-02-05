@@ -83,3 +83,14 @@ button {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
 }
+.btn {
+    background-color: #a8b0bc;
+    padding: 3%;
+    margin: 1%;
+    border-radius: 7px;
+}
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px purple;
+    background-color: seagreen;
+}
